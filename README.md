@@ -20,6 +20,7 @@ Propondremos 3 retos en 3 semanas y remataremos con una sesión en directo prime
 | Karlos | Xata |  |  |  |  |  |
 | José Ángel Martínez | Cloudflare D1 |  |  |  |  |  |
 | José Manuel Gómez | CockroachDB |  |  |  |  |  |
+| Juan Andrés Jiménez | Planetscale |  |  |  |  |  |
 | Sergi Edo | Troleado |  |  |  |  |  |
 | Imanol Valero | Planetscale |  |  |  |  |  |
 | Yuri | SurrealDB |  |  |  |  |  |
