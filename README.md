@@ -185,6 +185,7 @@ Order {
 - Las comandas se acumulan en forma de cola, la primera que entra es la más prioritaria (FIFO).
 - No hay límite de platos en cada comanda.
 - Tienes que fijar un límite en el máximo de comandas asumibles por la cocina. Por ejemplo, 5.
+- Cuando se llega al límite, no se aceptan más comandas y se envía un mensaje de error.
 - Solo puedes procesar las comandas borrándolas todas a la vez (esto cambiará en el Reto 3, pero no sabes cómo, no te adelantes)
 
 **Imprescindible**
