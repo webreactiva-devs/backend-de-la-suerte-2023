@@ -237,7 +237,7 @@ Para el orden las mismas condiciones vistas en el reto 2:
 
 Las comandas desaparecen de esa lista en orden y se les puede añadir un campo nuevo `dispatchedAt` para almacenar el momento en el que desaparecen de la comanda. 
 
-- 
+Tu misión que crear un comando, ruta o lo que sea para que se produzca ese "despacho" de la comanda 1 por 1 y se almacene el cambio en tu #BackendDeLaSuerte.
 
 ### Segunda parte:
 
