@@ -247,6 +247,7 @@ Vamos a simular que un zombie se cuela en tu sistema de comandas y altera tus da
 
 Tendrás que crear un método usando tu backend que permita protegerse de estos bichos comecerebros...
 
+&nbsp;
 
 
 **¿Cómo lo haremos?**
@@ -262,9 +263,10 @@ https://zombie-entrando-cocina.vercel.app/api/zombie/1
 Hay dos respuestas posibles:
 
 1- El zombie pasa de largo
+
 2- El zombie te escupe en la cara
 
-En este segundo caso verás un mensaje que contiene una fecha aleatoria de Marzo de 2023. Tendrás que capturarla y asigánrsela a la comanda en el campo `createdAt`.
+En este segundo caso verás un mensaje que contiene una fecha aleatoria de Marzo de 2023. Tendrás que capturarla y asigánrsela a la comanda en el campo `createdAt`. Al Zombie solo le llega el cerebro para cambiarte el día, no la hora.
 
 El requisito de esta prueba es lograr recuperar la fecha  `createdAt` original si ha sido alterada por el Zombie.
 
