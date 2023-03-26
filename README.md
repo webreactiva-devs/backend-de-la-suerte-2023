@@ -268,7 +268,9 @@ Hay dos respuestas posibles:
 
 En este segundo caso verás un mensaje que contiene una fecha aleatoria de Marzo de 2023. Tendrás que capturarla y asigánrsela a la comanda en el campo `createdAt`. Al Zombie solo le llega el cerebro para cambiarte el día, no la hora.
 
-El requisito de esta prueba es lograr recuperar la fecha  `createdAt` original si ha sido alterada por el Zombie.
+El Zombie Trol "ataca" justo después de que almacenes la comanda.
+
+El reto para ti de esta prueba es lograr recuperar la fecha  `createdAt` original si ha sido alterada por el Zombie Trol.
 
 
 &nbsp;
