@@ -243,7 +243,7 @@ Tu misión que crear un comando, ruta o lo que sea para que se produzca ese "des
 
 ¡¡¡Un zombie se ha colado en tu cocina!!!
 
-Vamos a simular que un zombie se cuela en tu sistema de comandas y altera tus datos. Va a intentar la fecha en la que la comanda ha sido creada en tu sistema.
+Vamos a simular que un zombie se cuela en tu sistema de comandas y altera tus datos. Va a intentar modificar la fecha en la que la comanda ha sido creada en tu sistema.
 
 Tendrás que crear un método usando tu backend que permita protegerse de estos bichos comecerebros...
 
