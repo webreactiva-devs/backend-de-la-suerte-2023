@@ -15,23 +15,23 @@ Propondremos 3 retos en 3 semanas y remataremos con una sesión en directo prime
 
 👉 [Ver issues](https://github.com/webreactiva-devs/backend-de-la-suerte-2023/issues)
 
-| Nick | Backend | Reto 1 | Reto 2 | Reto 3 | Directo | Total |
-| --- | --- | --- | --- | --- | --- | -- |
-| Karlos | Xata | 20 | 20 |  |  |  |
-| José Ángel Martínez | Cloudflare D1 | 20 |  |  |  |  |
-| José Manuel Gómez | CockroachDB | 20 | 20 | 20 |  |  |
-| Juan Andrés Jiménez | Planetscale | 10 | 20 | 40 |  |  |
-| Sergi Edo | Troleado | 20 | 20 | 40 |  |  |
-| Imanol Valero | Planetscale | 20 | 20 | 40 |  |  |
-| Yuri | SurrealDB | 20 |  |  |  |  |
-| Alfredo | EdgeDB |  |  |  |  |  |
-| David Galisteo | Pocketbase | 20 |  |  |  |  |
-| SergioPb | Xata |  |  |  |  |  |
-| Andrés Cabrera QuieroMiTaza | FaunaDB |  |  |  |  |  |
-| Borja	 | Troleado | 20 | 10 | 20 |  |  |
-| Cesar Octavio Delgado | KeyDB | 20 | 20 |  |  |  |
-| Ramón Ruiz | Pocketbase |  |  |  |  |  |
-| Oliver | Cloudflare D1 |  |  |  |  |  |
+| Nick | Backend | Plato | Reto 1 | Reto 2 | Reto 3 | Directo | Total |
+| --- | --- | --- | --- | --- | --- | --- | -- |
+| Karlos | Xata | 	Yaguarlocro | 20 | 20 | 40 |  |  |
+| José Ángel Martínez | Cloudflare D1 |   | 20 |  |  |  |  |
+| José Manuel Gómez | CockroachDB | Hígado de baby  | 20 | 20 | 40 |  |  |
+| Juan Andrés Jiménez | Planetscale | Fingers de alicatador  | 10 | 20 | 40 |  |  |
+| Sergi Edo | Texto | Yo soy negan  | 20 | 20 | 60 |  |  |
+| Imanol Valero | Planetscale | Fingers de merluza  | 20 | 20 | 60 |  |  |
+| Yuri | SurrealDB |   | 20 |  |  |  |  |
+| Alfredo | EdgeDB |   |  |  |  |  |  |
+| David Galisteo | Pocketbase | Backend de la muerte  | 20 |  |  |  |  |
+| SergioPb | Xata |  Carpacho de cerebelo |  |  |  |  |  |
+| Andrés Cabrera QuieroMiTaza | FaunaDB |   |  |  |  |  |  |
+| Borja	 | Texto | Carpaccio de materia blanca  | 20 | 10 | 20 |  |  |
+| Cesar Octavio Delgado | KeyDB |   | 20 | 20 | 40 |  |  |
+| Ramón Ruiz | Pocketbase |   |  |  |  |  |  |
+| Oliver | Cloudflare D1 |   |  |  |  |  |  |
 
 
 
