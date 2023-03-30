@@ -17,19 +17,19 @@ Propondremos 3 retos en 3 semanas y remataremos con una sesión en directo prime
 
 | Nick | Backend | Reto 1 | Reto 2 | Reto 3 | Directo | Total |
 | --- | --- | --- | --- | --- | --- | -- |
-| Karlos | Xata |  |  |  |  |  |
-| José Ángel Martínez | Cloudflare D1 |  |  |  |  |  |
-| José Manuel Gómez | CockroachDB |  |  |  |  |  |
-| Juan Andrés Jiménez | Planetscale |  |  |  |  |  |
-| Sergi Edo | Troleado |  |  |  |  |  |
-| Imanol Valero | Planetscale |  |  |  |  |  |
-| Yuri | SurrealDB |  |  |  |  |  |
+| Karlos | Xata | 20 | 20 |  |  |  |
+| José Ángel Martínez | Cloudflare D1 | 20 |  |  |  |  |
+| José Manuel Gómez | CockroachDB | 20 | 20 | 20 |  |  |
+| Juan Andrés Jiménez | Planetscale | 10 | 20 | 40 |  |  |
+| Sergi Edo | Troleado | 20 | 20 | 40 |  |  |
+| Imanol Valero | Planetscale | 20 | 20 | 40 |  |  |
+| Yuri | SurrealDB | 20 |  |  |  |  |
 | Alfredo | EdgeDB |  |  |  |  |  |
-| David Galisteo | Pocketbase |  |  |  |  |  |
+| David Galisteo | Pocketbase | 20 |  |  |  |  |
 | SergioPb | Xata |  |  |  |  |  |
 | Andrés Cabrera QuieroMiTaza | FaunaDB |  |  |  |  |  |
-| Borja	 | Troleado |  |  |  |  |  |
-| Cesar Octavio Delgado | KeyDB |  |  |  |  |  |
+| Borja	 | Troleado | 20 | 10 | 20 |  |  |
+| Cesar Octavio Delgado | KeyDB | 20 | 20 |  |  |  |
 | Ramón Ruiz | Pocketbase |  |  |  |  |  |
 | Oliver | Cloudflare D1 |  |  |  |  |  |
 
