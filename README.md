@@ -17,19 +17,19 @@ Propondremos 3 retos en 3 semanas y remataremos con una sesión en directo prime
 
 | Nick | Backend | Plato | Reto 1 | Reto 2 | Reto 3 | Directo | Total |
 | --- | --- | --- | --- | --- | --- | --- | -- |
-| Karlos | Xata | 	Yaguarlocro | 20 | 20 | 40 |  |  |
-| José Ángel Martínez | Cloudflare D1 |   | 20 |  |  |  |  |
-| José Manuel Gómez | CockroachDB | Hígado de baby  | 20 | 20 | 40 |  |  |
-| Juan Andrés Jiménez | Planetscale | Fingers de alicatador  | 10 | 20 | 40 |  |  |
-| Sergi Edo | Texto | Yo soy negan  | 20 | 20 | 60 |  |  |
-| Imanol Valero | Planetscale | Fingers de merluza  | 20 | 20 | 60 |  |  |
-| Yuri | SurrealDB |   | 20 |  |  |  |  |
+| Karlos | Xata | 	Yaguarlocro | 20 | 20 | 40 | 20 | 100 |
+| José Ángel Martínez | Cloudflare D1 |   | 20 |  |  |  | 20 |
+| José Manuel Gómez | CockroachDB | Hígado de baby  | 20 | 20 | 40 | 20 | 100 |
+| Juan Andrés Jiménez | Planetscale | Fingers de alicatador  | 10 | 20 | 40 | 20 | 90 |
+| Sergi Edo | Texto | Yo soy negan  | 20 | 20 | 60 | 20 | 120 |
+| Imanol Valero | Planetscale | Fingers de merluza  | 20 | 20 | 60 | 20 | 120 |
+| Yuri | SurrealDB |   | 20 |  |  |  | 20 |
 | Alfredo | EdgeDB |   |  |  |  |  |  |
-| David Galisteo | Pocketbase | Backend de la muerte  | 20 |  |  |  |  |
+| David Galisteo | Pocketbase | Backend de la muerte  | 20 |  |  |  | 20 |
 | SergioPb | Xata |  Carpacho de cerebelo |  |  |  |  |  |
 | Andrés Cabrera QuieroMiTaza | FaunaDB |   |  |  |  |  |  |
-| Borja	 | Texto | Carpaccio de materia blanca  | 20 | 10 | 20 |  |  |
-| Cesar Octavio Delgado | KeyDB |   | 20 | 20 | 40 |  |  |
+| Borja	 | Texto | Carpaccio de materia blanca  | 20 | 10 | 20 | 40 | 90 |
+| Cesar Octavio Delgado | KeyDB |   | 20 | 20 | 40 | 20 | 100 |
 | Ramón Ruiz | Pocketbase |   |  |  |  |  |  |
 | Oliver | Cloudflare D1 |   |  |  |  |  |  |
 
